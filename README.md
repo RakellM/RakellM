@@ -34,11 +34,14 @@ I’ve worked with companies like **Spin Master, Bradesco Saúde, IBGE**, levera
 #### 🧸 For Fun
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 
-
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/raquel-marques/)  
 
 Let’s collaborate on impactful Data Science projects! 🚀
+
+---
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RakellM&hide=dockerfile&theme=algolia&show_icons=true)](https://github.com/RakellM)
 
